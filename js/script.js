@@ -23,7 +23,7 @@ buttonRead.addEventListener("mouseout", function() {
 });
 
 openLink = () => {
-  window.location.href="https://www.google.com";
+  window.location.href="https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl/hub";
 }
 const imageSource= document.getElementsByClassName('imgs')[0];
 const imageSourceL = 'imgs/image-web-3-desktop.jpg';
