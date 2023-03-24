@@ -3,5 +3,3 @@
  Responsive news page design
 
 <a style="color: red;" href="https://karimaziz69.github.io/newsHomePage/">Live Preview</a>
-
-<h3>Unfinished project</h3>
